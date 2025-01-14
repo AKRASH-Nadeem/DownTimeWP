@@ -48,7 +48,7 @@ To uninstall the plugin:
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue in the [GitHub repository](https://github.com/AKRASH-Nadeem/DownTimeWP) or contact us via email.
+If you encounter any issues or have questions, feel free to open an issue in the [GitHub repository](https://github.com/AKRASH-Nadeem/DownTimeWP) or contact me via email.
 
 
 ## Frequently Asked Questions (FAQ)
