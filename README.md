@@ -1,6 +1,6 @@
 # DownTimeWP
 
-DownTimeWP is a simple WordPress plugin that allows you to put your website into maintenance mode. When activated, users will see a "Under Maintenance" page, while administrators can still access the website for updates and maintenance tasks. This plugin is ideal for developers or site owners who need to temporarily take their site offline for updates or maintenance.
+**DownTimeWP** is a lightweight and efficient WordPress plugin that allows you to enable a maintenance mode page on your site while you're performing updates or maintenance. It ensures that your visitors see a friendly message while you work behind the scenes.
 
 ## Features
 
@@ -8,6 +8,7 @@ DownTimeWP is a simple WordPress plugin that allows you to put your website into
 - **Maintenance Page**: A beautifully designed maintenance page to inform visitors of the downtime.
 - **Admin Access**: Only administrators will be able to access the website while maintenance mode is enabled.
 - **Simple Setup**: Easily configurable with just a few clicks from the settings page.
+- **Light Weight**: No impact on website performance—this plugin is lightweight and doesn't affect your site's speed.
 
 ## Installation
 
@@ -40,6 +41,15 @@ To uninstall the plugin:
 1. Deactivate the plugin from the **Plugins** page in WordPress.
 2. Optionally, you can delete the plugin from the same page.
 3. If you want to remove the plugin’s settings, the plugin will automatically clean up after itself by removing the saved settings when uninstalled.
+
+## Performance
+
+**DownTimeWP** is designed with performance in mind. It is a lightweight plugin and will not negatively impact the performance of your website. It operates quietly in the background, making minimal use of system resources.
+
+## Support
+
+If you encounter any issues or have questions, feel free to open an issue in the [GitHub repository](https://github.com/AKRASH-Nadeem/DownTimeWP) or contact us via email.
+
 
 ## Frequently Asked Questions (FAQ)
 
